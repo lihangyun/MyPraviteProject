@@ -6,4 +6,5 @@
     <string name="action_settings">Settings</string>
     <string name="action_branch2">branch2</string>
 
+	<string name="action_branch1">branch1</string>
 </resources>
