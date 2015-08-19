@@ -9,4 +9,5 @@
 	<string name="action_branch1">branch1</string>
 	<string name="action_branch3">branch3</string>
 	<string name="action_devolop">devolop</string>
+	<string name="action_release">release</string>
 </resources>
